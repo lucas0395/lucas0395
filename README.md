@@ -21,5 +21,3 @@
 </div>
     
   ***
-
-  ![Snake animation](https://github.com/lucas0395/lucas0395/blob/output/github-contribution-grid-snake.svg)
