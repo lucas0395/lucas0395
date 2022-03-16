@@ -13,7 +13,9 @@
 <div>
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
 </div>
-  
+<div>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/412384592654237699/953731353390764093/image_processing20210902-23772-r7sc3a.gif?width=320&height=240">
+</div>
   ##
   
 <div>
