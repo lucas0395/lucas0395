@@ -8,13 +8,13 @@
 </div>
 
 <div>
-<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif">
+<img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;" src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif">
 </div>
 <div>
-<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
+<img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
 </div>
 <div>
-<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://cdn.dribbble.com/users/783/screenshots/104300/media/ab2789e9c16575237650681bbd6aa17e.gif">
+<img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;" src="https://cdn.dribbble.com/users/783/screenshots/104300/media/ab2789e9c16575237650681bbd6aa17e.gif">
 </div>
   
   ##
