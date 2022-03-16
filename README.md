@@ -8,14 +8,15 @@
 </div>
 
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif">
 </div>
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
 </div>
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/412384592654237699/953731353390764093/image_processing20210902-23772-r7sc3a.gif?width=320&height=240">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://i.gifer.com/fetch/w300-preview/da/da46810b14a1d1d9dc5710af025ddb83.gif">
 </div>
+  
   ##
   
 <div>
