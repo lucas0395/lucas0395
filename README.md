@@ -14,7 +14,7 @@
 <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
 </div>
 <div>
-<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://i.gifer.com/fetch/w300-preview/da/da46810b14a1d1d9dc5710af025ddb83.gif">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://i.gifer.com/Mukw.gif">
 </div>
   
   ##
