@@ -8,13 +8,13 @@
 </div>
 
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/763562730782457936/954259343405117470/python-powered_1.gif">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/763562730782457936/954259343405117470/python-powered_1.gif">
 </div>
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif">
 </div>
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/763562730782457936/954263639978827826/ezgif.com-gif-maker.gif">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/763562730782457936/954263639978827826/ezgif.com-gif-maker.gif">
 </div>
   
   ##
