@@ -8,7 +8,7 @@
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas0395&theme=dark">
   </div>
-  <h2>🏆 GitHub Trophies</h2>
+  <h2>🏆 GitHub Troféus</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=lucas0395&theme=nord&column=7" >
     </div>
 
